@@ -53,7 +53,7 @@
     <img src=".github/img/preview.png" alt="Screenshot" width="281" height="609">
 </p>
 
-The Maze is a game deloveped for iOS and using core motion.
+The Maze is a game developed for iOS and using core motion.
 
 
 <!-- GETTING STARTED -->
